@@ -11,6 +11,7 @@ orange color: #e67e22
     box-sizing: border-box;
 }
 
+img[alt=""],
 img:not([alt]) {
   filter: grayscale(100%);
 }
